@@ -1,0 +1,10 @@
+
+:php:S1256"Remove this commented out code.(”ÒÇÚ8ä—ñè.
+:php:S125h"Remove this commented out code.(”ÒÇÚ8ŞÓñè.
+K	php:S1481³")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ8ª¿ªñè.
+C	php:S1481(")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ
+u	php:S3776/"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¦¹œéøÿÿÿÿ8¾úùñè.
+J	php:S1481"".Remove this unused "$postdata" local variable.(¬×°8£¶ºòè.
+×	php:S1192;"µDefine a constant instead of duplicating this literal "SELECT ride_category.*,ride_category.name as name, ride_category.enable as enable FROM RideCategory as ride_category" 3 times.(×¬Û§ıÿÿÿÿ8¾úùñè.
+F	php:S1481Í")Remove this unused "$res" local variable.(£‚¦8ª¿ªñè.
+|	php:S1192b"[Define a constant instead of duplicating this literal "Data Retrieve Successfully" 3 times.(ÕöôÏıÿÿÿÿ8¾úùñè.

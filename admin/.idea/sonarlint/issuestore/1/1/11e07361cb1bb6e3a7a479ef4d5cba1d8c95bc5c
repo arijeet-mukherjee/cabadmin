@@ -1,0 +1,24 @@
+
+K	php:S1481 ".Remove this unused "$postdata" local variable.(¬×°8Ñ¸“™ë.
+D	php:S1481ì")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ
+;php:S125Ú"Remove this commented out code.(şü‹•8¹şª¾ê.
+?php:S125F"Remove this commented out code.(à¬Çûÿÿÿÿ8›©¨êê.
+q	php:S1192"[Define a constant instead of duplicating this literal "Data Retrieve Successfully" 3 times.(›‚ªş
+K	php:S1481ä".Remove this unused "$postdata" local variable.(¬×°8µ‹±Ìê.
+?php:S125)"Remove this commented out code.(ë–‡ùÿÿÿÿ8›©¨êê.
+q	php:S1142á"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¥„˜Şøÿÿÿÿ8—ğ‚™ë.
+J	php:S1481&".Remove this unused "$postdata" local variable.(¬×°8¿§¾êê.
+F	php:S1481§")Remove this unused "$res" local variable.(£‚¦8Ñ¸“™ë.
+:php:S1254"Remove this commented out code.(ÜÑæ8›©¨êê.
+v	php:S1192¸"YDefine a constant instead of duplicating this literal "Data Delete Successfully" 3 times.(Â˜›ÿ8Ñ¸“™ë.
+;php:S125³"Remove this commented out code.(şü‹•8¯çıÀê.
+b	php:S11926"FDefine a constant instead of duplicating this literal ".webp" 6 times.(áÄŞö8ÛÃ‘ë.
+;php:S125†"Remove this commented out code.(µá¡Å8ãçò’ë.
+@php:S125Â"Remove this commented out code.(åçª ûÿÿÿÿ8ÓÑ•ë.
+G	php:S14819",Remove this unused "$result" local variable.(·‹Ú^8™¢¹ëê.
+v	php:S3776á"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¥„˜Şøÿÿÿÿ8Á¨ú”ë.
+‘php:S138n"xThis function "retrieve" has 287 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦¹œéøÿÿÿÿ
+n	php:S3776n"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¦¹œéøÿÿÿÿ
+:php:S1258"Remove this commented out code.(”˜‚Œ8›©¨êê.
+:php:S125D"Remove this commented out code.(Ü©‘8›©¨êê.
+{	php:S1192÷"YDefine a constant instead of duplicating this literal "Data Update Successfully" 5 times.(ŒıÆ¡ûÿÿÿÿ8Á¨ú”ë.

@@ -1,0 +1,19 @@
+
+<	php:S2115")Add password protection to this database.(–¢x
+	php:S14883"eImmediately return this expression instead of assigning it to the temporary variable "$success_code".(Ú±‡ƒÿÿÿÿÿ
+	php:S1488;"gImmediately return this expression instead of assigning it to the temporary variable "$shippingimages".(´“š¬ùÿÿÿÿ
+x	php:S1488½"]Immediately return this expression instead of assigning it to the temporary variable "$data".(’ ª“ÿÿÿÿÿ
+s	php:S1488¯"]Immediately return this expression instead of assigning it to the temporary variable "$data".(€¸×–
+A	php:S1481Ÿ"+Remove this unused "$query" local variable.(ßµ‹
+Lphp:S836ú"2Review the data-flow - use of uninitialized value.(¯ˆùÕûÿÿÿÿ
+Lphp:S836ú"2Review the data-flow - use of uninitialized value.(¯ˆùÕûÿÿÿÿ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(×ò¯‚ûÿÿÿÿ
+x	php:S4144¤"bUpdate this method so that its implementation is not identical to "escapeStringForDb" on line 158.(÷“×›
+3php:S125"Remove this commented out code.(©öÌá
+2php:S125"Remove this commented out code.(ÏÌú7
+3php:S125"Remove this commented out code.(Ôžãö
+3php:S125B"Remove this commented out code.(ö¨Ðç
+8php:S125F"Remove this commented out code.(­ÇàÁýÿÿÿÿ
+3php:S125W"Remove this commented out code.(–±Ù
+9php:S125Þ"Remove this commented out code.(é³üÛýÿÿÿÿ
+9php:S125½"Remove this commented out code.(ž‚ÛÓüÿÿÿÿ

@@ -1,0 +1,61 @@
+
+QWeb:AvoidCommentedOutCodeCheckÕ	"Remove this commented out code.(½˜Ì£8ÜıÉÔè.
+t Web:TableHeaderHasIdOrScopeCheck…
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ½‘éûÿÿÿÿ8ùÍ¤Òè.
+QWeb:AvoidCommentedOutCodeCheckè	"Remove this commented out code.(£”œ®8ñÎËÒè.
+QWeb:AvoidCommentedOutCodeCheck•"Remove this commented out code.(”ËÏÑ8ŠñĞÔè.
+QWeb:AvoidCommentedOutCodeCheckØ"Remove this commented out code.(”ËÏÑ8¶Çğè.
+QWeb:AvoidCommentedOutCodeCheckâ	"Remove this commented out code.(‹ü­½8èÊ²Òè.
+QWeb:AvoidCommentedOutCodeCheckç	"Remove this commented out code.(ó„»û8ñÎËÒè.
+PWeb:BoldAndItalicTagsCheck´
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8èÊ²Òè.
+KWeb:BoldAndItalicTagsCheckğ
+"Replace this <i> tag by <em>.(„™ö¥8èÊ²Òè.
+KWeb:BoldAndItalicTagsCheckÔ
+"Replace this <i> tag by <em>.(„™ö¥8èÊ²Òè.
+x	php:S1192Å	"VDefine a constant instead of duplicating this literal "SELECT * FROM Country" 3 times.(Ü’§œûÿÿÿÿ8¶Çğè.
+PWeb:BoldAndItalicTagsCheck˜
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8èÊ²Òè.
+VWeb:AvoidCommentedOutCodeChecká	"Remove this commented out code.(»ãËÆÿÿÿÿÿ8¶¨Òè.
+PWeb:BoldAndItalicTagsCheckì
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8èÊ²Òè.
+VWeb:AvoidCommentedOutCodeCheckí	"Remove this commented out code.(•’ÈĞıÿÿÿÿ8ñÎËÒè.
+QWeb:AvoidCommentedOutCodeCheck–"Remove this commented out code.(½˜Ì£8ŠñĞÔè.
+VWeb:AvoidCommentedOutCodeCheckê	"Remove this commented out code.(éïÄıøÿÿÿÿ8ñÎËÒè.
+VWeb:AvoidCommentedOutCodeChecké	"Remove this commented out code.(‡‡®·ÿÿÿÿÿ8ñÎËÒè.
+VWeb:AvoidCommentedOutCodeCheckÚ"Remove this commented out code.(×şÂ¾ûÿÿÿÿ8¶Çğè.
+QWeb:AvoidCommentedOutCodeCheckÛ	"Remove this commented out code.(•ç¤é8¶¨Òè.
+VWeb:AvoidCommentedOutCodeCheckà	"Remove this commented out code.(×şÂ¾ûÿÿÿÿ8¶¨Òè.
+o Web:TableHeaderHasIdOrScopeCheckˆ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚ø»Ç8èÊ²Òè.
+QWeb:AvoidCommentedOutCodeCheckë	"Remove this commented out code.(æÿ×à8ñÎËÒè.
+PWeb:BoldAndItalicTagsCheck÷	"Replace this <i> tag by <em>.(ÎşÍ×ÿÿÿÿÿ8ùÍ¤Òè.
+QWeb:AvoidCommentedOutCodeCheckì	"Remove this commented out code.(¢ƒ¹¨8ñÎËÒè.
+QWeb:AvoidCommentedOutCodeCheckÙ"Remove this commented out code.(½˜Ì£8¶Çğè.
+VWeb:AvoidCommentedOutCodeCheckÙ	"Remove this commented out code.(ÕÂµÆüÿÿÿÿ8ÜıÉÔè.
+KWeb:BoldAndItalicTagsCheckŒ"Replace this <i> tag by <em>.(„™ö¥8èÊ²Òè.
+Š	Web:S4645­"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(ãõ§üÿÿÿÿ8õıÔè.
+PWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8èÊ²Òè.
+VWeb:AvoidCommentedOutCodeCheckİ	"Remove this commented out code.(“†˜Ğüÿÿÿÿ8¶¨Òè.
+UWeb:TableWithoutCaptionCheck
+" Add a description to this table.(¼ëùÏşÿÿÿÿ8èÊ²Òè.
+VWeb:AvoidCommentedOutCodeCheckÖ	"Remove this commented out code.(×şÂ¾ûÿÿÿÿ8ÜıÉÔè.
+KWeb:BoldAndItalicTagsCheckœ
+"Replace this <i> tag by <em>.(„™ö¥8èÊ²Òè.
+VWeb:AvoidCommentedOutCodeCheck¶	"Remove this commented out code.(Ãªáñûÿÿÿÿ8ùÍ¤Òè.
+QWeb:AvoidCommentedOutCodeCheckÚ	"Remove this commented out code.(ÿ¨«»8¶¨Òè.
+QWeb:AvoidCommentedOutCodeCheckß	"Remove this commented out code.(½˜Ì£8¶¨Òè.
+KWeb:BoldAndItalicTagsCheck¸
+"Replace this <i> tag by <em>.(„™ö¥8èÊ²Òè.
+QWeb:AvoidCommentedOutCodeCheckÔ	"Remove this commented out code.(”ËÏÑ8¬şÅÒè.
+VWeb:AvoidCommentedOutCodeCheckî	"Remove this commented out code.(…Ó³ƒüÿÿÿÿ8ñÎËÒè.
+QWeb:AvoidCommentedOutCodeCheckŞ	"Remove this commented out code.(”ËÏÑ8¶¨Òè.
+o Web:TableHeaderHasIdOrScopeCheck†
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(«¼¤ñ8ùÍ¤Òè.
+QWeb:AvoidCommentedOutCodeCheckÜ	"Remove this commented out code.(‹˜Á8¶¨Òè.
+PWeb:BoldAndItalicTagsCheckĞ
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8èÊ²Òè.
+t Web:TableHeaderHasIdOrScopeCheck‡
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼¡™¬ÿÿÿÿÿ8ùÍ¤Òè.
+o	php:S1192"NDefine a constant instead of duplicating this literal "../config.php" 3 times.(Á˜ÏÚøÿÿÿÿ8¶Çğè.
+VWeb:AvoidCommentedOutCodeCheck—"Remove this commented out code.(×şÂ¾ûÿÿÿÿ8ŠñĞÔè.

@@ -1,0 +1,16 @@
+
+M	php:S1481ò"0Remove this unused "$listOfData" local variable.(ì¡î8ˆ…ö¤é.
+:php:S125³"Remove this commented out code.(Ï±¯8ºÍ´¥é.
+K	php:S1481ó".Remove this unused "$postdata" local variable.(¬×°8ˆ…ö¤é.
+:php:S125z"Remove this commented out code.(”˜‚Œ8˜Çî¤é.
+	php:S1186!"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(­ùê“ûÿÿÿÿ8Ï¬âºí.
+;php:S125Ó"Remove this commented out code.(”˜‚Œ8ºÍ´¥é.
+K	php:S1481û")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ8‰áÖ¡é.
+9php:S125L"Remove this commented out code.(Ï±¯8¾´Î¤é.
+K	php:S1481".Remove this unused "$postdata" local variable.(¬×°8¥Ì‰¥é.
+n	php:S3776("TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(¦¹œéøÿÿÿÿ
+:php:S1251"Remove this commented out code.(œô³¹8œÈÍ¡é.
+;php:S125¼"Remove this commented out code.(Äö•·8ºÍ´¥é.
+Cphp:S905Ç""Remove or refactor this statement.(·‰É‘ùÿÿÿÿ8ÀÍúçë.
+F	php:S1481•")Remove this unused "$res" local variable.(£‚¦8‰áÖ¡é.
+:php:S125U"Remove this commented out code.(Äö•·8öóÍ¤é.

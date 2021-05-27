@@ -1,0 +1,42 @@
+
+QWeb:AvoidCommentedOutCodeCheckÌ	"Remove this commented out code.(æÿ×à8œ¡’ñè.
+IWeb:BoldAndItalicTagsCheckØ	"Replace this <i> tag by <em>.(ÎşÍ×ÿÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckş	"Replace this <i> tag by <em>.(„™ö¥
+DWeb:BoldAndItalicTagsCheckò
+"Replace this <i> tag by <em>.(„™ö¥
+DWeb:BoldAndItalicTagsCheck¸
+"Replace this <i> tag by <em>.(„™ö¥
+VWeb:AvoidCommentedOutCodeCheck¾	"Remove this commented out code.(“†˜Ğüÿÿÿÿ8µí’ñè.
+DWeb:BoldAndItalicTagsCheckÕ
+"Replace this <i> tag by <em>.(„™ö¥
+QWeb:AvoidCommentedOutCodeCheckÀ	"Remove this commented out code.(½˜Ì£8µí’ñè.
+m Web:TableHeaderHasIdOrScopeCheckè	";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼¡™¬ÿÿÿÿÿ
+VWeb:AvoidCommentedOutCodeCheckÊ	"Remove this commented out code.(‡‡®·ÿÿÿÿÿ8œ¡’ñè.
+QWeb:AvoidCommentedOutCodeCheckÈ	"Remove this commented out code.(ó„»û8œ¡’ñè.
+IWeb:BoldAndItalicTagsCheckÑ
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckú	"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+QWeb:AvoidCommentedOutCodeCheckÃ	"Remove this commented out code.(‹ü­½8µí’ñè.
+h Web:TableHeaderHasIdOrScopeChecké	";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚ø»Ç
+QWeb:AvoidCommentedOutCodeCheck¿	"Remove this commented out code.(”ËÏÑ8µí’ñè.
+VWeb:AvoidCommentedOutCodeCheckÁ	"Remove this commented out code.(×şÂ¾ûÿÿÿÿ8µí’ñè.
+QWeb:AvoidCommentedOutCodeCheckÍ	"Remove this commented out code.(¢ƒ¹¨8œ¡’ñè.
+m Web:TableHeaderHasIdOrScopeCheckæ	";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck›
+"Replace this <i> tag by <em>.(„™ö¥
+IWeb:BoldAndItalicTagsCheck´
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+VWeb:AvoidCommentedOutCodeCheckº	"Remove this commented out code.(ÕÂµÆüÿÿÿÿ8µí’ñè.
+QWeb:AvoidCommentedOutCodeCheck¼	"Remove this commented out code.(•ç¤é8µí’ñè.
+QWeb:AvoidCommentedOutCodeCheck½	"Remove this commented out code.(‹˜Á8µí’ñè.
+VWeb:AvoidCommentedOutCodeCheckÂ	"Remove this commented out code.(»ãËÆÿÿÿÿÿ8µí’ñè.
+VWeb:AvoidCommentedOutCodeCheckË	"Remove this commented out code.(éïÄıøÿÿÿÿ8œ¡’ñè.
+VWeb:AvoidCommentedOutCodeCheckÏ	"Remove this commented out code.(…Ó³ƒüÿÿÿÿ8œ¡’ñè.
+QWeb:AvoidCommentedOutCodeCheck»	"Remove this commented out code.(ÿ¨«»8µí’ñè.
+QWeb:AvoidCommentedOutCodeCheckÉ	"Remove this commented out code.(£”œ®8œ¡’ñè.
+IWeb:BoldAndItalicTagsCheckî
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+VWeb:AvoidCommentedOutCodeCheckÎ	"Remove this commented out code.(•’ÈĞıÿÿÿÿ8œ¡’ñè.
+NWeb:TableWithoutCaptionCheckâ	" Add a description to this table.(¼ëùÏşÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck—
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ

@@ -1,0 +1,13 @@
+
+F	php:S1481ÿ")Remove this unused "$res" local variable.(£‚¦8å¯¹ğè.
+J	php:S1481,")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ8å¯¹ğè.
+:php:S125["Remove this commented out code.(Ñ§ò°8å¯¹ğè.
+?php:S125("Remove this commented out code.(şÍ©Œúÿÿÿÿ8å¯¹ğè.
+@php:S125İ"Remove this commented out code.(şÍ©Œúÿÿÿÿ8å¯¹ğè.
+Mphp:S836O"2Review the data-flow - use of uninitialized value.(ª¤ÄÍ8å¯¹ğè.
+J	php:S1481#".Remove this unused "$postdata" local variable.(¬×°8å¯¹ğè.
+K	php:S1481ø".Remove this unused "$postdata" local variable.(¬×°8ò®¿ğè.
+u	php:S37763"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(¦¹œéøÿÿÿÿ8å¯¹ğè.
+K	php:S1481ã")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ8å¯¹ğè.
+|	php:S1192x"[Define a constant instead of duplicating this literal "Data Retrieve Successfully" 3 times.(ÕöôÏıÿÿÿÿ8å¯¹ğè.
+K	php:S1481Ù".Remove this unused "$postdata" local variable.(¬×°8å¯¹ğè.

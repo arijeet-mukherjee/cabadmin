@@ -1,0 +1,9 @@
+
+O	php:S1481ß"2Remove this unused "$totalRevenue" local variable.(³Úà™8Ùçÿêì.
+@php:S125ü"Remove this commented out code.(¦Î¬äÿÿÿÿÿ8ã„‹¹í.
+u	php:S37767"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(¦¹œéøÿÿÿÿ8ÁÃŸßì.
+	php:S1186­"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¥„˜Şøÿÿÿÿ8ÂÔ­ëë.
+Cphp:S905‚""Remove or refactor this statement.(·‰É‘ùÿÿÿÿ8İÁšëë.
+?php:S125%"Remove this commented out code.(Ö¶°ˆÿÿÿÿÿ8İÁšëë.
+˜php:S1387"xThis function "retrieve" has 267 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦¹œéøÿÿÿÿ8»¡£âì.
+	php:S1186´"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(ÜË¦øÿÿÿÿ8·¥®ëë.

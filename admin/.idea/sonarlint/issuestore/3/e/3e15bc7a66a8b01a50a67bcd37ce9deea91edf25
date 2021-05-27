@@ -1,0 +1,82 @@
+
+OWeb:AvoidCommentedOutCodeCheckÄ	"Remove this commented out code.(ÕÂµÆüÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckõ	";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼¡™¬ÿÿÿÿÿ
+IWeb:AvoidCommentedOutCodeCheck•"Remove this commented out code.(®Ä¾#
+OWeb:AvoidCommentedOutCodeCheck‘"Remove this commented out code.(Ú¶õ‡ıÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÂ	"Remove this commented out code.(»ãËÆÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÙ	"Remove this commented out code.(…Ó³ƒüÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckÖ"Remove this commented out code.(‹ü­½
+JWeb:AvoidCommentedOutCodeCheckÇ	"Remove this commented out code.(‹˜Á
+JWeb:AvoidCommentedOutCodeCheckÖ	"Remove this commented out code.(æÿ×à
+JWeb:AvoidCommentedOutCodeCheckÑ"Remove this commented out code.(‡¹ÿ‰
+JWeb:AvoidCommentedOutCodeCheckÓ	"Remove this commented out code.(£”œ®
+IWeb:BoldAndItalicTagsCheckÄ
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckØ	"Remove this commented out code.(•’ÈĞıÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ÑÉ´­ùÿÿÿÿ
+IWeb:AvoidCommentedOutCodeCheck”"Remove this commented out code.(ã˜†J
+DWeb:BoldAndItalicTagsCheckŒ
+"Replace this <i> tag by <em>.(„™ö¥
+DWeb:BoldAndItalicTagsCheckª
+"Replace this <i> tag by <em>.(„™ö¥
+JWeb:AvoidCommentedOutCodeCheckÆ	"Remove this commented out code.(•ç¤é
+JWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¥ğ
+OWeb:AvoidCommentedOutCodeCheckº	"Remove this commented out code.(ÕÂµÆüÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck„"Replace this <i> tag by <em>.(„™ö¥
+OWeb:AvoidCommentedOutCodeCheck“"Remove this commented out code.(“ÊŞÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÌ"Remove this commented out code.(°…ÃÏøÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckË	"Remove this commented out code.(×şÂ¾ûÿÿÿÿ
+NWeb:TableWithoutCaptionCheckì	" Add a description to this table.(¼ëùÏşÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÔ	"Remove this commented out code.(‡‡®·ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckò	";Add either an 'id' or a 'scope' attribute to this <th> tag.(·€Ãıÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckË"Remove this commented out code.(©Á«¾şÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckÃ	"Remove this commented out code.(‹ü­½
+IWeb:BoldAndItalicTagsCheckâ
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckÍ	"Remove this commented out code.(‹ü­½
+IWeb:BoldAndItalicTagsCheck€"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÒ"Remove this commented out code.(“ÊŞÿÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckÅ	"Remove this commented out code.(ÿ¨«»
+OWeb:AvoidCommentedOutCodeCheckÕ	"Remove this commented out code.(éïÄıøÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckŒ"Remove this commented out code.(©Á«¾şÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckô	"Remove this commented out code.(¨²Ú²ÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(Èé–„ÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÎ"Remove this commented out code.(Èé–„ÿÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheck—"Remove this commented out code.(‹ü­½
+IWeb:BoldAndItalicTagsCheckˆ
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheck’"Remove this commented out code.(‡¹ÿ‰
+JWeb:AvoidCommentedOutCodeCheck×	"Remove this commented out code.(¢ƒ¹¨
+OWeb:AvoidCommentedOutCodeCheckÁ	"Remove this commented out code.(×şÂ¾ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckó	";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ä’ºÅùÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÌ	"Remove this commented out code.(»ãËÆÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÈ	"Remove this commented out code.(“†˜Ğüÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck¾	"Remove this commented out code.(“†˜Ğüÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheck¿	"Remove this commented out code.(”ËÏÑ
+JWeb:AvoidCommentedOutCodeCheck½	"Remove this commented out code.(ñ“ì´
+IWeb:BoldAndItalicTagsCheck¦
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckÉ	"Remove this commented out code.(”ËÏÑ
+m Web:TableHeaderHasIdOrScopeCheckñ	";Add either an 'id' or a 'scope' attribute to this <th> tag.(ç»Ó¡øÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÈ
+"Replace this <i> tag by <em>.(„™ö¥
+OWeb:AvoidCommentedOutCodeCheckÊ"Remove this commented out code.(òƒ‹…ûÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÍ"Remove this commented out code.(ÑÉ´­ùÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck»	"Remove this commented out code.(‚Àúìùÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckÏ"Remove this commented out code.(¥ğ
+JWeb:AvoidCommentedOutCodeCheckÊ	"Remove this commented out code.(½˜Ì£
+JWeb:AvoidCommentedOutCodeCheckÀ	"Remove this commented out code.(½˜Ì£
+m Web:TableHeaderHasIdOrScopeCheckğ	";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckæ
+"Replace this <i> tag by <em>.(„™ö¥
+OWeb:AvoidCommentedOutCodeCheckĞ"Remove this commented out code.(Ú¶õ‡ıÿÿÿÿ
+IWeb:AvoidCommentedOutCodeCheckÔ"Remove this commented out code.(®Ä¾#
+JWeb:AvoidCommentedOutCodeCheck¼	"Remove this commented out code.(•ç¤é
+JWeb:AvoidCommentedOutCodeCheckÒ	"Remove this commented out code.(ó„»û
+OWeb:AvoidCommentedOutCodeCheck‹"Remove this commented out code.(òƒ‹…ûÿÿÿÿ
+h Web:TableHeaderHasIdOrScopeCheckö	";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚ø»Ç
+IWeb:BoldAndItalicTagsCheckâ	"Replace this <i> tag by <em>.(ÎşÍ×ÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(°…ÃÏøÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck–"Remove this commented out code.(»ãËÆÿÿÿÿÿ
+IWeb:AvoidCommentedOutCodeCheckÓ"Remove this commented out code.(ã˜†J
+OWeb:AvoidCommentedOutCodeCheckÕ"Remove this commented out code.(»ãËÆÿÿÿÿÿ

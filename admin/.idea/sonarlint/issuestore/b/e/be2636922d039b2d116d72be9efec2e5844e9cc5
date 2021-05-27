@@ -1,0 +1,58 @@
+
+VWeb:AvoidCommentedOutCodeCheckã	"Remove this commented out code.(‡‡®·ÿÿÿÿÿ8¿ÉÒùè.
+UWeb:TableWithoutCaptionCheckû	" Add a description to this table.(¼ëùÏşÿÿÿÿ8™‘Ñùè.
+VWeb:AvoidCommentedOutCodeCheckÛ	"Remove this commented out code.(»ãËÆÿÿÿÿÿ8¢Òùè.
+o Web:TableHeaderHasIdOrScopeCheck
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(à”÷8™‘Ñùè.
+VWeb:AvoidCommentedOutCodeCheck×	"Remove this commented out code.(“†˜Ğüÿÿÿÿ8¢Òùè.
+KWeb:BoldAndItalicTagsCheck¤
+"Replace this <i> tag by <em>.(„™ö¥8™‘Ñùè.
+KWeb:BoldAndItalicTagsChecké
+"Replace this <i> tag by <em>.(„™ö¥8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckÕ	"Remove this commented out code.(•ç¤é8¢Òùè.
+QWeb:AvoidCommentedOutCodeCheckå	"Remove this commented out code.(æÿ×à8¿ÉÒùè.
+VWeb:AvoidCommentedOutCodeCheckÓ	"Remove this commented out code.(ÕÂµÆüÿÿÿÿ8¢Òùè.
+VWeb:AvoidCommentedOutCodeCheckè	"Remove this commented out code.(…Ó³ƒüÿÿÿÿ8¿ÉÒùè.
+o Web:TableHeaderHasIdOrScopeCheck„
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(«¼¤ñ8™‘Ñùè.
+t Web:TableHeaderHasIdOrScopeCheck…
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(€÷Òÿÿÿÿÿ8™‘Ñùè.
+o Web:TableHeaderHasIdOrScopeCheck‡
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(“…®Ö8™‘Ñùè.
+t Web:TableHeaderHasIdOrScopeCheckÿ	";Add either an 'id' or a 'scope' attribute to this <th> tag.(–¯çüÿÿÿÿ8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckÙ	"Remove this commented out code.(½˜Ì£8¢Òùè.
+VWeb:AvoidCommentedOutCodeCheckç	"Remove this commented out code.(•’ÈĞıÿÿÿÿ8¿ÉÒùè.
+o Web:TableHeaderHasIdOrScopeCheck‰
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚ø»Ç8™‘Ñùè.
+KWeb:BoldAndItalicTagsCheckŒ"Replace this <i> tag by <em>.(„™ö¥8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckÖ	"Remove this commented out code.(‹˜Á8¢Òùè.
+t Web:TableHeaderHasIdOrScopeCheck‚
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(¥ê…“şÿÿÿÿ8™‘Ñùè.
+PWeb:BoldAndItalicTagsCheckñ	"Replace this <i> tag by <em>.(ÎşÍ×ÿÿÿÿÿ8™‘Ñùè.
+x	php:S1192Â	"VDefine a constant instead of duplicating this literal "SELECT * FROM Country" 3 times.(Ü’§œûÿÿÿÿ8ëûœé.
+t Web:TableHeaderHasIdOrScopeCheck€
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿ8™‘Ñùè.
+KWeb:BoldAndItalicTagsCheckÇ
+"Replace this <i> tag by <em>.(„™ö¥8™‘Ñùè.
+t Web:TableHeaderHasIdOrScopeCheckˆ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼¡™¬ÿÿÿÿÿ8™‘Ñùè.
+PWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8™‘Ñùè.
+PWeb:BoldAndItalicTagsCheck 
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8™‘Ñùè.
+o	php:S1192"NDefine a constant instead of duplicating this literal "../config.php" 5 times.(Á˜ÏÚøÿÿÿÿ8£Åµşè.
+o Web:TableHeaderHasIdOrScopeCheckƒ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ˆ½·é8™‘Ñùè.
+PWeb:BoldAndItalicTagsCheck©"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckØ	"Remove this commented out code.(”ËÏÑ8¢Òùè.
+PWeb:BoldAndItalicTagsCheckÃ
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckæ	"Remove this commented out code.(¢ƒ¹¨8¿ÉÒùè.
+QWeb:AvoidCommentedOutCodeChecká	"Remove this commented out code.(ó„»û8¿ÉÒùè.
+PWeb:BoldAndItalicTagsCheckå
+"Replace this <i> tag by <em>.(Å°ñÎøÿÿÿÿ8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckÔ	"Remove this commented out code.(ÿ¨«»8¢Òùè.
+VWeb:AvoidCommentedOutCodeCheckÚ	"Remove this commented out code.(×şÂ¾ûÿÿÿÿ8¢Òùè.
+KWeb:BoldAndItalicTagsCheck­"Replace this <i> tag by <em>.(„™ö¥8™‘Ñùè.
+QWeb:AvoidCommentedOutCodeCheckÜ	"Remove this commented out code.(‹ü­½8¢Òùè.
+QWeb:AvoidCommentedOutCodeCheckâ	"Remove this commented out code.(£”œ®8¿ÉÒùè.
+VWeb:AvoidCommentedOutCodeCheckä	"Remove this commented out code.(éïÄıøÿÿÿÿ8¿ÉÒùè.

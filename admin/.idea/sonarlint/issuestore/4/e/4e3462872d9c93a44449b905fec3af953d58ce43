@@ -1,0 +1,13 @@
+
+R	php:S1481Ä"0Remove this unused "$country_id" local variable.(ëıÚûúÿÿÿÿ8è²Üœé.
+˜php:S138C"xThis function "retrieve" has 165 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦¹œéøÿÿÿÿ8òšéıè.
+K	php:S1481ê")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ8í£ıè.
+n	php:S3776C"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(¦¹œéøÿÿÿÿ
+;php:S125Ü"Remove this commented out code.(‡ÎĞø8äÅÃ›é.
+J	php:S1481"".Remove this unused "$postdata" local variable.(¬×°8œ•Ùé.
+Q	php:S1481&"0Remove this unused "$country_id" local variable.(ëıÚûúÿÿÿÿ8üÈé.
+p	php:S1142C"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¦¹œéøÿÿÿÿ8òšéıè.
+F	php:S1481")Remove this unused "$res" local variable.(£‚¦8í£ıè.
+}	php:S1192 "[Define a constant instead of duplicating this literal "Data Retrieve Successfully" 4 times.(ÕöôÏıÿÿÿÿ8í£ıè.
+C	php:S14814")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ
+@php:S125ƒ"Remove this commented out code.(–ÒÒúÿÿÿÿ8ƒ²êıè.

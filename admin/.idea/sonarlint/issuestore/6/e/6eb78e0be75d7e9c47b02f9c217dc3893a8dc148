@@ -1,0 +1,20 @@
+
+C	php:S1481:")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ
+8php:S125+"Remove this commented out code.(˜›¸¦ûÿÿÿÿ
+?	php:S1481 ")Remove this unused "$res" local variable.(£‚¦
+4php:S125±"Remove this commented out code.(ÇŸ³ä
+3php:S125i"Remove this commented out code.(ÇŸ³ä
+3php:S125Z"Remove this commented out code.(Ñ§ò°
+4php:S125õ"Remove this commented out code.(ÿË½°
+D	php:S1481Í".Remove this unused "$postdata" local variable.(¬×°
+3php:S125H"Remove this commented out code.(”ÒÇÚ
+u	php:S1192z"[Define a constant instead of duplicating this literal "Data Retrieve Successfully" 3 times.(ÕöôÏıÿÿÿÿ
+D	php:S1481û")Remove this unused "$run" local variable.(²¿­ßøÿÿÿÿ
+n	php:S3776A"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦¹œéøÿÿÿÿ
+D	php:S1481".Remove this unused "$postdata" local variable.(¬×°
+4php:S125ª"Remove this commented out code.(”ÒÇÚ
+4php:S125Ô"Remove this commented out code.(‚°‹´
+C	php:S1481#".Remove this unused "$postdata" local variable.(¬×°
+4php:S125“"Remove this commented out code.(ÇŸ³ä
+4php:S125™"Remove this commented out code.(‡ÎĞø
+;php:S125è"Remove this commented out code.(‡ÎĞø8Ô¸§’ë.
